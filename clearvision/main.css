@@ -23,7 +23,7 @@
 }
 
 .info__2debe::after {
-	content: "ClearVision"" ""7.0.1";
+	content: "mys.client"" ""1.0.0";
 	color: var(--text-muted);
 	font-size: 12px;
 	line-height: 1.3333333333;
@@ -32,7 +32,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .leading_c38106::before {
-	content: "ClearVision";
+	content: "mys.client";
 	position: static;
 	margin-left: 10px;
 	font-size: 16px;
